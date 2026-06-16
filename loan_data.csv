@@ -1,0 +1,9 @@
+Gender,Age,Marital_Status,Education,Employment_Status,Annual_Income,Loan_Amount,Credit_Score,Existing_Loan,Property_Area,Loan_Status
+Male,35,Married,Graduate,Employed,70000,200000,780,No,Urban,Approved
+Female,28,Single,Graduate,Employed,35000,150000,620,No,Rural,Rejected
+Male,45,Married,Graduate,Self-Employed,90000,300000,810,Yes,Semiurban,Approved
+Female,32,Married,Non-Graduate,Employed,40000,180000,650,No,Urban,Rejected
+Male,38,Married,Graduate,Employed,85000,250000,790,No,Semiurban,Approved
+Female,29,Single,Graduate,Self-Employed,45000,170000,680,No,Rural,Rejected
+Male,50,Married,Graduate,Employed,100000,350000,820,Yes,Urban,Approved
+Female,31,Single,Graduate,Employed,42000,160000,640,No,Semiurban,Rejected
